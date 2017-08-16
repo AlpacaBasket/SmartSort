@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{ABFA4E25-F4F7-4538-A7AF-81659F56C8E2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartSort/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="SmartSort/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
